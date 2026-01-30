@@ -141,7 +141,7 @@ df.duplicated().sum()  # Result: 0 duplicates found
 
 ### A. Distribution of Numerical Features
 
-![Distribution of Numerical Features](A.Distribution of Numerical features.png)
+![Distribution of Numerical Features](A.Distribution%20of%20Numerical%20features.png)
 
 **Code**:
 ```python
