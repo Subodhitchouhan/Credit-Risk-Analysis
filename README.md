@@ -609,7 +609,10 @@ print(classification_report(y_test, y_pred))
 
 A user-friendly web interface was created using **Streamlit** for real-time credit risk predictions.
 
-![App Link](https://credit-risk-analysis-bysubodhit.streamlit.app/)
+### 🚀 APP LINK
+[APP LINK](https://credit-risk-analysis-bysubodhit.streamlit.app/)
+
+### 📸 App Screenshot
 ![App Screenshot](APP%20SS.png)
 
 
