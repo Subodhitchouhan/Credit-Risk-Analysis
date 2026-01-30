@@ -141,8 +141,7 @@ df.duplicated().sum()  # Result: 0 duplicates found
 
 ### A. Distribution of Numerical Features
 
-![Distribution of Numerical Features](<img width="1215" height="476" alt="A Distribution of Numerical features" src="https://github.com/user-attachments/assets/00900d33-c114-48b4-9881-4036f694b180" />
-)
+![Distribution of Numerical Features](A.Distribution of Numerical features.png)
 
 **Code**:
 ```python
