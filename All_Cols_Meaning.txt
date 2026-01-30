@@ -1,0 +1,23 @@
+# Numerical Columns
+
+1.Age: The age of the individual applicant in years.
+
+2.Credit amount: The total sum of money borrowed or requested in the loan.
+
+3.Duration: The length of time (usually in months) over which the loan is to be repaid.
+
+# Categorical Columns- 
+
+4.Sex: The gender of the applicant (Male/Female).
+
+5.Job: The category of the applicant's employment (e.g., unskilled, skilled, management).
+
+6.Housing: Whether the applicant owns, rents, or lives for free.
+
+7.Saving accounts: The level of balance in the applicant's savings (e.g., little, moderate, quite rich).
+
+8.Checking account: The status or balance of the applicant's primary bank account.
+
+9.Purpose: The reason for the loan (e.g., car, furniture, education, business).
+
+10.Risk: The target variable, usually labeled as "Good" or "Bad" credit risk.
