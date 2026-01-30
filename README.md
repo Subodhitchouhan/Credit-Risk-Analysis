@@ -164,7 +164,7 @@ plt.show()
 
 ### B. Categorical Features Analysis
 
-![Categorical Features Distribution](https://via.placeholder.com/800x600/2196F3/FFFFFF?text=Categorical+Features+Count+Plots)
+![Categorical Features Distribution](B.%20Categorical%20Features%20Analysis.png)
 
 **Code**:
 ```python
@@ -213,7 +213,7 @@ plt.show()
 
 ### C. Correlation Analysis
 
-![Correlation Heatmap](https://via.placeholder.com/600x500/FF5722/FFFFFF?text=Correlation+Matrix+Heatmap)
+![Correlation Heatmap](C.%20Correlation%20Analysis.png)
 
 **Code**:
 ```python
@@ -249,7 +249,7 @@ df["Risk"].value_counts(normalize=True) * 100
 
 ### E. Numerical Features vs Risk
 
-![Box Plots by Risk](https://via.placeholder.com/900x300/9C27B0/FFFFFF?text=Box+Plots+-+Numerical+Features+by+Risk)
+![Box Plots by Risk](E.%20Numerical%20Features%20vs%20Risk.png)
 
 **Code**:
 ```python
@@ -294,7 +294,7 @@ df.groupby("Risk")[["Age", "Credit amount", "Duration"]].mean()
 
 ### F. Credit Amount Distribution by Savings
 
-![Violin Plot](https://via.placeholder.com/700x400/00BCD4/FFFFFF?text=Violin+Plot+-+Credit+Amount+by+Savings)
+![Violin Plot](F.%20Credit%20Amount%20Distribution%20by%20Savings.png)
 
 **Code**:
 ```python
@@ -313,7 +313,7 @@ plt.show()
 
 ### G. Categorical Features vs Risk
 
-![Risk by Categories](https://via.placeholder.com/900x900/673AB7/FFFFFF?text=Categorical+Features+Count+by+Risk)
+![Risk by Categories](G.%20Categorical%20Features%20vs%20Risk.png)
 
 **Code**:
 ```python
@@ -347,7 +347,7 @@ plt.show()
 
 ### H. Advanced Scatter Plot Analysis
 
-![Scatter Plot](https://via.placeholder.com/800x500/E91E63/FFFFFF?text=Age+vs+Credit+Amount+Scatter+Plot)
+![Scatter Plot](H.%20Advanced%20Scatter%20Plot%20Analysis.png)
 
 **Code**:
 ```python
@@ -609,7 +609,9 @@ print(classification_report(y_test, y_pred))
 
 A user-friendly web interface was created using **Streamlit** for real-time credit risk predictions.
 
-![App Screenshot](https://via.placeholder.com/1000x600/3F51B5/FFFFFF?text=Streamlit+Credit+Risk+Prediction+App)
+![App Link]([https://via.placeholder.com/1000x600/3F51B5/FFFFFF?text=Streamlit+Credit+Risk+Prediction+App](https://credit-risk-analysis-bysubodhit.streamlit.app/))
+![App Screenshot](APP SS.png)
+
 
 ### Application Features
 
@@ -871,12 +873,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Subodh Chouhan**
+**Subodhit Chouhan**
 
-- GitHub: [@Subodhitchouhan](https://github.com/Subodhitchouhan)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
+- GitHub: [@Subodhitchouhan]([https://github.com/Subodhitchouhan](https://github.com/Subodhitchouhan))
+- LinkedIn: [Connect with me](www.linkedin.com/in/subodhitchouhan)
+- Email: chouhansubodhit@gmail.com
 ---
 
 ## 🙏 Acknowledgments
@@ -893,21 +894,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaboration opportunities:
 
 - Open an issue on GitHub
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/your-profile)
+- Email: chouhansubodhit@gmail.com
+- LinkedIn:[Subodhit Chouhan](www.linkedin.com/in/subodhitchouhan)
 
 ---
 
-## ⭐ Star This Repository
-
-If you found this project helpful, please consider giving it a star! ⭐
-
----
-
-<div align="center">
-
-**Made with ❤️ and Python**
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Subodhitchouhan.Credit-Risk-Analysis)
 
 </div>
